@@ -7,25 +7,27 @@ Welcome to my GitHub profile! I'm a **Backend Engineer** with **DevOps skills**,
 ## 🛠️ Technologies & Tools
 
 ### Backend & Programming Languages:
-- **Python** \(Django Framework\)
-- **PostgreSQL** \(Database Design & Management\)
+- ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) \(Django Framework\)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) \(Database Design & Management\)
 
 ### DevOps & Cloud:
-- **AWS**
-- **Docker**
-- **Kubernetes**
-- **Digital Ocean**
+- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+- ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230080ff.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
 
 ### Messaging & Caching:
-- **Kafka**
-- **Redis**
+- ![Kafka](https://img.shields.io/badge/Apache%20Kafka-%2300ADD8.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
+- ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Frontend:
-- **HTML, CSS, JavaScript**
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Tools & Platforms:
-- **Postman** \(API Testing\)
-- **VS Code** \(Development Environment\)
+- ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) \(API Testing\)
+- ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) \(Development Environment\)
 
 ---
 
