@@ -26,6 +26,9 @@ Welcome to my GitHub profile! I'm a **Backend Engineer** with **DevOps skills**,
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Tools & Platforms:
+- ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+- ![Solr](https://img.shields.io/badge/Apache%20Solr-%23D9411E.svg?style=for-the-badge&logo=apache-solr&logoColor=white)
 - ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) \(API Testing\)
 - ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) \(Development Environment\)
 
